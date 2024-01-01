@@ -13,3 +13,7 @@ Option 1:
 Option 2:
 
   This method should almost always succeed without any problems. After saving AngryBirds.scpt to your Downloads folder, open up the Terminal and run command shown below (you can simply copy and paste it into the Terminal. To open the terminal, go into your Launchpad and search for it. By the time you have typed "ter", it should be one of the only options shown.
+
+Command:
+
+mv ~/Downloads/AngryBirds.scpt ~/Library/Application\ Scripts/com.microsoft.Powerpoint
