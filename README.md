@@ -2,9 +2,12 @@ ANGRYBIRDS.SCPT
 
 This file is required for the Angry Birds trivia PPT to work correctly on MacOS computers. However, because of Apple's security policies, the file needs to be installed in a directory that is usually hidden from most users. The good news, though, is that it is very easy to move the file into the correct directory.
 
+DOWNLOADING
+You can either right-click on AngryBirds.scpt above and select 'Save As' or you can goto the release page and download it as a zip file. You file must be placed into your Downloads folder, and if you download it as a zip file, you will need to extract the AngryBirds.scpt file before continuing. When the download window opens to select where to save it, it might show the filename as only "AngryBirds". This is normal, so you don't need to add the ".scpt" ending.
+
 INSTALLATION
 
-First, you you need to download AngryBirds.scpt to your Downloads folder. When the download window opens to select where to save it, it might show the filename as only "AngryBirds". This is normal, so you don't need to add the ".scpt" ending. After saving AngryBirds.scpt to your Downloads folder, open up the Terminal and run command shown below. To open the terminal, go into your Launchpad and search for it. By the time you have typed "ter", it should be one of the only options shown.
+After saving AngryBirds.scpt to your Downloads folder, open up the Terminal and run command shown below. To open the terminal, go into your Launchpad and search for it. By the time you have typed "ter", it should be one of the only options shown.
 
 Command: (You can simple copy and paste the command into the Terminal.)
 
