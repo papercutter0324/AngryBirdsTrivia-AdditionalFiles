@@ -10,9 +10,9 @@ Command: (You can simple copy and paste the command into the Terminal.)
 
 mv ~/Downloads/AngryBirds.scpt ~/Library/Application\ Scripts/com.microsoft.Powerpoint
 
-Errors:
+ERRORS:
 
-In some rare situations, you might receive an error saying ~/Library/Application Scipts/com.microsoft.Powerpoint or /Users/yourUserName/Library/Application Scripts/com.microsoft.Powerpoint doesn't exist, and you will need to create the directory. To do so, run the following command.
+In some rare situations, you might receive an error saying ~/Library/Application Scipts/com.microsoft.Powerpoint or /Users/yourUserName/Library/Application Scripts/com.microsoft.Powerpoint doesn't exist, and you will need to create the directory. To do so, run the following command. Afterward, following the installation step again. (You might need to redownload the file.)
 
 Command: (You can simple copy and paste the command into the Terminal.)
 
@@ -20,4 +20,4 @@ mkdir ~/Library/Application\ Scripts/com.microsoft.Powerpoint
 
 VERIFYING INSTALLATION
 
-If you
+If you were able to complete the above steps, you can verify that the file has been correctly installed by opening up the Angry Birds trivia PPT and choosing any of the title screen options. For simplicity, I recommend either "DEFAULTS" or "OPTIONS". If you transition to the next slide without seeing a popup message, then the file has been successfully installed.
