@@ -18,7 +18,7 @@ Next, open a Terminal window (using one of the methods mentioned in the "Automat
 `mv ~/Downloads/AngryBirds.scpt ~/Library/Application\ Scripts/com.microsoft.Powerpoint`
 
 ## ERRORS
-In some rare situations, you might receive an error saying ~/Library/Application Scipts/com.microsoft.Powerpoint or /Users/yourUserName/Library/Application Scripts/com.microsoft.Powerpoint doesn't exist, and you will need to create the directory. To do so, run the following command. Afterward, following the installation step again. (You might need to redownload the file.)
+In some rare situations, you might receive an error saying `~/Library/Application Scipts/com.microsoft.Powerpoint` or `/Users/yourUserName/Library/Application Scripts/com.microsoft.Powerpoint` doesn't exist, and you will need to create the directory. To do so, run the following command. Afterward, following the installation step again. (You might need to redownload the file.)
 
 Command: (You can simple copy and paste the command into the Terminal.)
 
