@@ -5,7 +5,7 @@ This file is required for the Angry Birds trivia PPT to work correctly on MacOS 
 ### Automated Method
 Open a Terminal window. You can press `Command(⌘) + Spacebar` to open Spotlight search and type "Terminal". Then, you can press return to open it. If you prefer to use Finder, you can press `Command(⌘) + Shift + U` to open the Utilities folder. Double-click on Terminal to open it. With a Terminal window open, copy and paster the following command and press return.
 
-`curl -L -o ~/Library/Application\ Scripts/com.microsoft.Powerpoint/AngryBirds.scpt https://github.com/papercutter0324/AngryBirdsTrivia-AdditionalFiles/raw/main/AngryBirds.scpt`
+> curl -L -o ~/Library/Application\ Scripts/com.microsoft.Powerpoint/AngryBirds.scpt https://github.com/papercutter0324/AngryBirdsTrivia-AdditionalFiles/raw/main/AngryBirds.scpt
 
 ### Manual Method
 You need to manually download AngryBirds.scpt to your Downloads folder. There are three ways to easily do this.
