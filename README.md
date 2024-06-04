@@ -1,4 +1,4 @@
-ANGRYBIRDS.SCPT
+# ANGRYBIRDS.SCPT
 --------------------------------------------------------------------------------------------------
 This file is required for the Angry Birds trivia PPT to work correctly on MacOS computers. However, because of Apple's security policies, the file needs to be installed in a directory that is usually hidden from most users. The good news, though, is that it is very easy to move the file into the correct directory.
 
